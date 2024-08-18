@@ -1,6 +1,15 @@
 {
   "name": "react-tailwind-css-boilerplate",
-  "private": true,
+  "author": "Muhammed Kambur",
+  "description": "A quick and easy boilerplate to start your project with essential configurations and dependencies, allowing you to focus on building features.",
+  "keywords": [
+    "vite",
+    "react",
+    "tailwind",
+    "boilerplate",
+    "starter",
+    "template"
+  ],
   "version": "0.0.0",
   "type": "module",
   "scripts": {
