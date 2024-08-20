@@ -3,7 +3,7 @@
 A React frontend template designed for quickly starting development of a web app using React, Vite, and TailwindCSS.
 
 [![npm version](https://img.shields.io/npm/v/react-tailwind-boilerplate)](https://www.npmjs.com/package/package/react-tailwind-boilerplate)
-[![NPM Downloads](https://img.shields.io/npm/dy/react-tailwind-boilerplate)](https://www.npmjs.com/package/react-tailwind-boilerplate)
+[![NPM Downloads](https://img.shields.io/npm/dw/react-tailwind-boilerplate)](https://www.npmjs.com/package/react-tailwind-boilerplate)
 
 
 # Getting Started
